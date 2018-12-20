@@ -6,5 +6,5 @@
 
   <project name="repack-scripts" path="scripts" remote="nthomas" revision="master"/>
   <project name="build-tools" path="scripts/tools" remote="mozilla" revision="master"/>
-  <project name="sample-configs" path="partners/sample-configs" remote="mozilla-partners" revision="esr"/>
+  <project name="sample-configs" path="partners/sample-configs" remote="mozilla-partners" revision="master"/>
 </manifest>
